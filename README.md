@@ -5,7 +5,9 @@ A movie management React app to manage your movies collection, watchlist and fav
 
 ## Screenshots
 
-![image](https://user-images.githubusercontent.com/62594900/145681651-2ddc3b4f-711e-4df4-898b-940b00c5ec02.png)
+![image](https://user-images.githubusercontent.com/62594900/145687483-670df8bd-65b4-4a6b-a610-4dc59670be7b.png)
+
+![image](https://user-images.githubusercontent.com/62594900/145687485-b7548d32-34f9-4a8e-9814-512dedfedd7b.png)
 
 ## Features
 
@@ -38,11 +40,13 @@ Start the server
   npm start
 ```
 
+## Environment Variables
+
+'REACT_APP_API_KEY'
   
 ## Tech Stack
 
 React, Redux
-
 
 ## Authors
 
