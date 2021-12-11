@@ -17,13 +17,13 @@ A movie management React app to manage your movies collection, watchlist and fav
 Clone the project
 
 ```bash
-  git clone https://github.com/sauravshekharsingh/social.git
+  git clone https://github.com/sauravshekharsingh/movie-app.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd social
+  cd movie-app
 ```
 
 Install dependencies
