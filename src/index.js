@@ -15,7 +15,7 @@ const logger =
   (next) =>
   (action) => {
     if (typeof action !== "function") {
-      console.log("ACTION_TYPE: ", action.type);
+      console.log("ACTION_TYPE:", action.type);
     }
     next(action);
   };
